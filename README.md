@@ -3,7 +3,7 @@
 - 👀 I’m interested in building technology and shaping companies.
 - 🌱 I’m currently learning how to build state-of-the-art machine learning infrastructure at Lyft.
 - 🧠 I'm passionate about working at the forefront of technology — and being a part of teams which promote innovation and personal growth.
-- ☀️ outside work, I enjoy being active (as a hobbyist), meeting interesting people, and travel.
+- ☀️ outside work, I enjoy being active (as a hobbyist), meeting interesting people, and traveling the world.
 - 📫 Reach me by email at kosigz@lyft.com.
 
 <!---
