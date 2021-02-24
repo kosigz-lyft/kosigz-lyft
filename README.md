@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Konstantin Gizdarski and I'm currently working as a software engineer.
+- 👋 Hi, I’m Konstantin Gizdarski and I'm currently working as a software engineer at Lyft.
+- ⚒️ Prior to Lyft, I interned at Instagram and Stripe.
 - 🌎 I'm originally from Bulgaria, but I grew up in Silicon Valley, went to university in Boston, and studied abroad in Beijing and London.
 - 🏠 These days, I am residing in the San Francisco Bay Area.
 - 🌱 I’m currently working to build state-of-the-art machine learning technology at Lyft.
